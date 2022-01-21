@@ -28,7 +28,7 @@ module.exports = {
         ]
       },
       {
-        test:/\.js$/,
+        test: /\.js$/,
         use: [
           'babel-loader'
         ]
